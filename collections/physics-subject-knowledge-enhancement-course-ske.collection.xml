@@ -1,0 +1,107 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11505</md:content-id>
+    <md:title>Physics Subject Knowledge Enhancement Course (SKE)</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>75457e99-93b7-4a5b-ab1d-641f4657aa0a</md:uuid>
+<md:slug>physics-subject-knowledge-enhancement-course-ske</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>1. Introduction: The Nature of Science and Physics</md:title>
+      <col:content>
+        <col:module document="m42119"/>
+        <col:module document="m42092"/>
+        <col:module document="m42091"/>
+        <col:module document="m42120"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>2.1 Mechanics</md:title>
+      <col:content>
+        <col:module document="m42033"/>
+        <col:module document="m42124"/>
+        <col:module document="m42096"/>
+        <col:module document="m42100"/>
+        <col:module document="m42099"/>
+        <col:module document="m42102"/>
+        <col:module document="m42103"/>
+        <col:module document="m42069"/>
+        <col:module document="m42130"/>
+        <col:module document="m42073"/>
+        <col:module document="m42074"/>
+        <col:module document="m42155"/>
+        <col:module document="m42156"/>
+        <col:module document="m42162"/>
+        <col:module document="m42159"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>2.2 Uniform Circular Motion</md:title>
+      <col:content>
+        <col:module document="m42140"/>
+        <col:module document="m42083"/>
+        <col:module document="m42086"/>
+        <col:module document="m42084"/>
+        <col:module document="m42143"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>3. Electromagnetism</md:title>
+      <col:content>
+        <col:module document="m42299"/>
+        <col:module document="m42329"/>
+        <col:module document="m42344"/>
+        <col:module document="m42714"/>
+        <col:module document="m42356"/>
+        <col:module document="m42348"/>
+        <col:module document="m42350"/>
+        <col:module document="m42437"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>4. Electromagnetic Waves</md:title>
+      <col:content>
+        <col:module document="m42434"/>
+        <col:module document="m42444"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>5. Geometric Optics</md:title>
+      <col:content>
+        <col:module document="m42449"/>
+        <col:module document="m42452"/>
+        <col:module document="m42456"/>
+        <col:module document="m42459"/>
+        <col:module document="m42462"/>
+        <col:module document="m42466"/>
+        <col:module document="m42470"/>
+        <col:module document="m42474"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>6. Work, Energy, Power</md:title>
+      <col:content>
+        <col:module document="m42145"/>
+        <col:module document="m42148"/>
+        <col:module document="m42151"/>
+        <col:module document="m42152"/>
+        <col:module document="m42154"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>7. Heat Transfer Methods</md:title>
+      <col:content>
+        <col:module document="m42221"/>
+        <col:module document="m42223"/>
+        <col:module document="m42224"/>
+        <col:module document="m42225"/>
+        <col:module document="m42226"/>
+        <col:module document="m42228"/>
+        <col:module document="m42229"/>
+        <col:module document="m42230"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
